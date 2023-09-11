@@ -36,7 +36,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<finalName>spring-boot-new-jar-file-name</finalName>
+					<finalName>Jar-final-name</finalName>
 				</configuration>
 			</plugin>
 		</plugins>
